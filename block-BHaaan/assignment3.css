@@ -42,3 +42,15 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+.heading {
+	background-color: pink;
+	text-align: center;
+	color:blue;
+	padding: 20px;
+	text-decoration: none;
+
+}
+a {
+	margin-left: 16px;
+	margin-right: 16px;
+}
